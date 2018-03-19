@@ -79,3 +79,4 @@ void CMainFrame::Dump(CDumpContext& dc) const
 // CMainFrame message handlers
 
 mainfafafa
+nihaoa i
