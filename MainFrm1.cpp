@@ -81,3 +81,4 @@ void CMainFrame::Dump(CDumpContext& dc) const
 this is master 
 this is fix 
 this is master1
+
