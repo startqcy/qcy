@@ -80,4 +80,3 @@ void CMainFrame::Dump(CDumpContext& dc) const
 
 mainfafafa
 nihaoa 1
-nihao 2
